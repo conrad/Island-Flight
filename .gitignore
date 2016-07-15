@@ -1,4 +1,4 @@
-Assembly-CSharp-Editor.csproj
+Assembly-CSharp-*
 Assembly-CSharp.csproj
 Builds/*
 Simple Flyer.sln
