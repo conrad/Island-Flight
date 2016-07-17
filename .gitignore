@@ -3,4 +3,13 @@ Assembly-CSharp.csproj
 Builds/*
 Simple Flyer.sln
 Simple Flyer.userprefs
-Temp/*
+Temp/
+Library/
+Obj/
+
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
